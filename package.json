@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/abigailhodge/wbdv-sp20-moran-hodge-final-server-node#readme",
   "dependencies": {
-    "@googlemaps/google-maps-services-js": "^2.3.1"
+    "@googlemaps/google-maps-services-js": "^2.3.1",
+    "express": "^4.17.1"
   }
 }
