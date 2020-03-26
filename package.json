@@ -1,0 +1,27 @@
+{
+  "name": "wbdv-sp20-moran-hodge-final-server-node",
+  "version": "1.0.0",
+  "description": "proxy server for api requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abigailhodge/wbdv-sp20-moran-hodge-final-server-node.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "api"
+  ],
+  "author": "Abigail Hodge and Kathleen Moran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abigailhodge/wbdv-sp20-moran-hodge-final-server-node/issues"
+  },
+  "homepage": "https://github.com/abigailhodge/wbdv-sp20-moran-hodge-final-server-node#readme",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^2.3.1"
+  }
+}
