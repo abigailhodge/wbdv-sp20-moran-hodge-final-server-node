@@ -5,5 +5,5 @@ const app = express();
 const client = new Client({});
 const placesController = require('./controllers/places.controller.server')
 placesController(app, client)
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
 
